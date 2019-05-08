@@ -1,5 +1,5 @@
-# cs457-cs557-pa3-pvishal1-vtalwar1
-cs457-cs557-pa3-pvishal1-vtalwar1 created by GitHub Classroom
+# Distributed-Banking-System-using-Chandy-Lamport-Snapshort-algo-and-Procol-Buffer
+Distributed-Banking-System-using-Chandy-Lamport-Snapshort-algo-and-Procol-Buffer created by GitHub Classroom
 
 Programming language: Python
 Executed on remote.
